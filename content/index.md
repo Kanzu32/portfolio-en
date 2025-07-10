@@ -3,7 +3,7 @@ title: 💀Kanzu protfolio
 ---
 ### [Russian version](https://kanzu32.github.io/portfolio-ru)
 
-# 👋Hello! My name is **Max** (Kanzu) -<br /> Developer of 💻apps, 🌐web-sites and 🕹️games.
+# 👋Hello! My name is **Max** (Kanzu)<br />I'm a developer of 💻apps, 🌐web-sites and 🕹️games.
 
 ## Interested in: Go, С#, Godot, С++
 
