@@ -10,7 +10,7 @@ title: 👻Pacman
 ## Description
 Clone of the game PacMan.
 
-## Особенности
+## Features
 * Difficulty selection;
 * Two players mode;
 * Music player;
