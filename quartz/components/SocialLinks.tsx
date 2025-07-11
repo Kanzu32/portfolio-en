@@ -6,19 +6,19 @@ export default (() => {
       <div class="social-links">
         <ul>
             <li>
-              <a href="https://kanzu32.github.io/portfolio-ru">🔠 Русская версия</a>
+              <a class="external" href="https://kanzu32.github.io/portfolio-ru/">🔠 Русская версия</a>
             </li>
 
             <br/>
 
             <li>
-              <a href="https://github.com/Kanzu32">🛠️ GitHub</a>
+              <a class="external" href="https://github.com/Kanzu32">🛠️ GitHub</a>
             </li>
             <li>
-              <a href="https://kanzu32.itch.io/">🕹️ Itch.io</a>
+              <a class="external" href="https://kanzu32.itch.io/">🕹️ Itch.io</a>
             </li>
             <li>
-              <a href="https://t.me/Kanzu32">📟 Telegram</a>
+              <a class="external" href="https://t.me/Kanzu32">📟 Telegram</a>
             </li>
         </ul>
       </div>
