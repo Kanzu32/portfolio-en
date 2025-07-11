@@ -6,6 +6,12 @@ export default (() => {
       <div class="social-links">
         <ul>
             <li>
+              <a href="https://github.com/portfolio-ru">🔠 Русская версия</a>
+            </li>
+
+            <br/>
+
+            <li>
               <a href="https://github.com/Kanzu32">🛠️ GitHub</a>
             </li>
             <li>
