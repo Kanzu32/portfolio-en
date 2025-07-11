@@ -21,7 +21,7 @@ title: 💀Kanzu protfolio
 Faculty of Physics, Mathematics and Computer Science (2021-2025)
 - Specialty: Software Engineering and Information Systems Management
 - Area of study: Information Systems and Database Design
-- Diploma Thesis: Game ["Troublemakers"](Projects/strategy game) using [self-written](Projects/go-ecs) ECS architectural pattern in Go language.
+- Diploma Thesis: Game ["Troublemakers"](Projects/strategy-game) using [self-written](Projects/go-ecs) ECS architectural pattern in Go language.
 
 📚 **Дополнительное образование**
 * Samsung IT Academy: “Mobile Development» (2022)
