@@ -23,12 +23,12 @@ Faculty of Physics, Mathematics and Computer Science (2021-2025)
 - Area of study: Information Systems and Database Design
 - Diploma Thesis: Game ["Troublemakers"](Projects/strategy-game) using [self-written](Projects/go-ecs) ECS architectural pattern in Go language.
 
-📚 **Дополнительное образование**
+📚 **Additional education**
 * Samsung IT Academy: “Mobile Development» (2022)
 * RuCode_5.0: «Intensive Programming: Advanced Algorithms» (2022)
 * RuCode_4.0: «Intensive Programming» (2021)
 
-🏆**Достижения**
+🏆**Achievements**
 * ICPC NERC Southern and Volga Russia Qualifier (2021-2024): 3-5 solved problems (Python, С++), reaching the finals
 * Hackathon BEST Hack (2022): Reaching the finals, [Gas-station data aggregator server](Projects/besthack22) (Java)
 * RuCode (2021-2023): Finalist in the track «Algorithmic Programming» (Python, С++)
